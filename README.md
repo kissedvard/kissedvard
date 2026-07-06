@@ -20,7 +20,7 @@ I'm especially interested in web applications and desktop apps, but I'm open to 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kissedvard&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kissedvard)
 
 
 
