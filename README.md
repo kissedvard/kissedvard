@@ -22,6 +22,6 @@ I’m a Computer Science student at the University of Győr, focused on .NET dev
 
 
 - 🌱 I’m currently learning ASP.NET Core MVC 
-- 📫 How to reach me: kissedvard22@gmail.com
+
 
 
