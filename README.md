@@ -18,9 +18,6 @@ I'm especially interested in web applications and desktop apps, but I'm open to 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kissedvard)
 
 
 
