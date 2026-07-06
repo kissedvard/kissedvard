@@ -1,10 +1,13 @@
 ## Hi there, I'm Edvárd Kiss 👋
 
 I’m a Computer Science student at the Széchenyi István University in Győr, currently developing my skills in .NET, C#, and ASP.NET Core MVC.
+
 I’m eager to build new projects and improve my problem-solving skills through them.
+
 I'm especially interested in web applications and desktop apps, but I'm open to exploring new areas too.
 
 My current goal: 
+
 • Currently working on strengthening my skills in backend and full-stack development skills. 
 
 ## Languages
